@@ -24,7 +24,7 @@ The project consists of the following files:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/DOM-Manipulation-Example.git
+   git clone https://github.com/Naveen-KumarJ/DOM-Manipulation-Example.git
    ```
 
 2. Navigate to the project directory:
@@ -35,23 +35,16 @@ The project consists of the following files:
 3. Open the `index.html` file in any modern web browser.
 
 ## How to View the Hosted Version
-
 To view the live version of this project:
-
 1. Click on the link below:
-   [View the Live Demo](https://example.com/DOM-Manipulation-Example)  
-   *(Replace "https://example.com/DOM-Manipulation-Example" with your actual hosted URL.)*
+[View the Live Demo](https://naveen-kumarj.github.io/DOM-Manipulation-Demo/)
 
 2. The webpage will load in your browser, displaying the styled `<div>` element with the specified properties applied dynamically.
-## Technologies Used
 
+## Technologies Used
 - HTML5
 - JavaScript
-## License
 
-This project is licensed under the MIT License. Feel free to use and modify it as you wish.
-
----
 
 Thank you for exploring this project! If you have any suggestions or improvements, feel free to contribute or raise an issue.
 
